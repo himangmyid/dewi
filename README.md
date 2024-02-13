@@ -5,7 +5,7 @@ Webnyo lihat sini yah : https://himangmyid.github.io/dewi/
 ## Script HTML CCS selamt Ulang Tahun Simple Download Saja
 
 
-Jika kamu  mau di ubah kode diatas untuk orang tersayangmu saya bisa bantu dengan berikan saya dukungan :
+## If you want to change the code above for your loved ones I can help by giving me support:
 
 https://paypal.me/DogGhozt
 
