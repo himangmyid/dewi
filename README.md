@@ -2,6 +2,15 @@
 Webnyo lihat sini yah : https://himangmyid.github.io/dewi/
 
 
+
+<p align="center">
+  <a href="https://github.com/himangmyid/dewi">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=himangmyid&repo=dewi&theme=tokyonight" alt="GitHub Repo Card">
+  </a>
+</p>
+
+
+
 ## Script HTML CCS selamt Ulang Tahun Simple Download Saja
 
 
